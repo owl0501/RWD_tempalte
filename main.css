@@ -115,6 +115,11 @@ nav a {
 .service {
     margin: 10px 0;
 }
+.service .text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
 
 .product {
     margin: 10px 0;
